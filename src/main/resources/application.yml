@@ -1,2 +1,8 @@
 server:
   port: 8800
+
+hblolj:
+  weixin:
+    callBackServerAddress: http://vr3j54.natappfree.cc/pc
+    appId:
+    appSecret:

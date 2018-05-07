@@ -2,7 +2,5 @@
 .gitignore
 .idea/
 .mvn
-mvnw
-mvnw.cmd
 target/
 wx_demo.iml
