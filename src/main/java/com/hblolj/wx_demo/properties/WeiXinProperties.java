@@ -25,6 +25,18 @@ public class WeiXinProperties {
      * 微信服务号AppSecret
      */
     private String appSecret;
+    /**
+     * 微信服务号Token
+     */
+    private String token;
+
+    public String getToken() {
+        return token;
+    }
+
+    public void setToken(String token) {
+        this.token = token;
+    }
 
     public String getCallBackServerAddress() {
         return callBackServerAddress;
